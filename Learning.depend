@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1648226946 source:c:\code blocks\learning\learn1.c
+	<stdio.h>
+	<stdlib.h>
+
+1648218181 source:c:\code blocks\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1648228771 source:c:\code blocks\learning\learn2.c
+	<stdio.h>
+	<stdlib.h>
+
+1648235159 source:c:\code blocks\learning\learn3.c
+	<stdio.h>
+	<stdlib.h>
+
+1648235819 source:c:\code blocks\learning\learn4.c
+	<stdio.h>
+	<stdlib.h>
+
+1648400982 source:c:\code blocks\learning\prj2503.c
+	<stdio.h>
+	<stdlib.h>
+
+1648288730 source:c:\code blocks\learning\prj2503a.c
+	<stdio.h>
+	<stdlib.h>
+
+1648566059 source:c:\code blocks\learning\prj2803.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1648571595 source:c:\code blocks\learning\prj2903.c
+	<stdio.h>
+	<stdlib.h>
+
+1648924166 source:c:\code blocks\learning\prj3003.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649610883 source:c:\code blocks\learning\learn4all.c
+	<stdio.h>
+	<stdlib.h>
+
+1648923668 source:c:\code blocks\learning\percentagebar.c
+	<stdio.h>
+	<stdlib.h>
+
+1648926801 source:c:\code blocks\learning\wordnumsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1649214909 source:c:\code blocks\learning\wordsort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649832685 source:c:\code blocks\learning\crudafile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
